@@ -28,5 +28,4 @@ I am interested in AI training and code evaluation work, where reading code clos
 
 ## Get in touch
 
-- LinkedIn: [your LinkedIn URL]
-- Email: [your email]
+- Email: sadiq.o.shamsudeen@gmail.com
